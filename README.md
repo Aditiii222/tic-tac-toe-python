@@ -4,6 +4,7 @@ A simple Tic Tac Toe game built in Python using basic game logic and user input.
 This is a simple Tic Tac Toe game built using Python as a beginner milestone project.  
 
 ○ Features
+
 • Turn-based gameplay  
 • User input handling  
 • Detects if a space is already taken  
@@ -12,6 +13,7 @@ This is a simple Tic Tac Toe game built using Python as a beginner milestone pro
 • Basic game logic using conditions and loops
 
 ○ What I learned
+
 • Python fundamentals  
 • Functions and loops  
 • Conditional statements  
